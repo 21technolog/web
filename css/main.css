@@ -21,6 +21,22 @@ h1 {
   text-align: center;
 }*/
 
+#language {
+  margin-left: 70%;
+}
+
+/*#language.a {
+  color:silver;
+}*/
+
+<style>
+/*    #language a { padding:15px; font-weight:bold; float:left; }*/
+    #language a:link { color:#0000a0; background-color:#c0c0c0; }
+    #language a:visited { color:#1c1a1a; background-color:#c0c0c0; }
+    #language a:hover { color:#ffffff; background-color:#c0c0c0; }
+    #language a:active { color:#000060; background-color:#f0f0f0; }
+</style>
+
 @font-face {
   font-family: 'Missy';
   src: url('font/MissyBT-Roman.otf');
