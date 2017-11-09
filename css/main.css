@@ -21,18 +21,6 @@ h1 {
   text-align: center;
 }*/
 
-#language {
-  margin-left: 70%;
-}
-
-#Solutions {
-   margin-left: 7%;
-   margin-right: 7%;
-}
-
-/*#language.a {
-  color:silver;
-}*/
 
 <style>
 /*    #language a { padding:15px; font-weight:bold; float:left; }*/
@@ -89,4 +77,13 @@ hr.divider {
 
 .map-container iframe.clicked {
   pointer-events: auto;
+}
+
+#language {
+  margin-left: 70%;
+}
+
+#Solutions {
+   margin-left: 7%;
+   margin-right: 7%;
 }
